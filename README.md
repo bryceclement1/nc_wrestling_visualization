@@ -22,7 +22,6 @@ Built with [Leaflet.js](https://leafletjs.com/) and custom JSON/GeoJSON data, it
 ---
 
 ## Project Structure
-.
 - index.html: Main entry point (loads map & controls)
 - main.js: Leaflet logic, map rendering, filters
 - style.css: Styling for map, controls, tooltips, legend
